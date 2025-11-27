@@ -1,0 +1,14 @@
+# Carpeta de compilación
+[Bb]in/
+[Oo]bj/
+
+# Configuración de Visual Studio
+.vs/
+
+# Paquetes NuGet
+packages/
+*.nupkg
+
+# Otros archivos comunes de C# / .NET
+*.user
+*.suo
